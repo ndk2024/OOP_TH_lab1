@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741975424 source:c:\users\administrator\desktop\tu hoc lap trinh c++\oop_th_lab1_bai6_t2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<regex>
+

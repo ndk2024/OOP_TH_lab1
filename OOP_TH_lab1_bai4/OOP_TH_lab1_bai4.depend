@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742050220 source:c:\users\administrator\desktop\tu hoc lap trinh c++\oop_th_lab1_bai4\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
